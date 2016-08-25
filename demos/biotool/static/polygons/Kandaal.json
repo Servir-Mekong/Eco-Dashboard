@@ -1,0 +1,15 @@
+
+		{
+		  "type": "Feature",
+		  "properties": {
+			"title": "Kandaal",
+			"id": "Kandaal"
+		  },
+			"geometry": {
+			"type": "Polygon",
+			"coordinates": [
+			[104.81093597412138, 11.893190383911246]
+				]
+		  }
+		}
+		
